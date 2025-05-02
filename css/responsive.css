@@ -55,24 +55,8 @@
   }
 
 
-  .client_section .client_container {
-    width: 100%;
-  }
-
   .client_section .box {
     margin: 0;
-  }
-
-  .owl-nav {
-    display: flex;
-    justify-content: center;
-    margin-top: 45px;
-  }
-
-  .client_section .owl-carousel .owl-nav .owl-prev,
-  .client_section .owl-carousel .owl-nav .owl-next {
-    position: unset;
-    margin: 0 2.5px;
   }
 }
 
