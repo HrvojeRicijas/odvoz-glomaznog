@@ -18,7 +18,7 @@
 
     <!-- service section -->
 
-    <?php include 'components/services.php' ?>
+    <?php include 'components/servicesLong.php' ?>
 
     <!-- end service section -->
 
@@ -27,6 +27,9 @@
     <?php include 'components/footer.php'; ?>
 
     <!-- end info section -->
+
+
+    <?php include_once 'components/callBubble.php' ?>
 
   </body>
 

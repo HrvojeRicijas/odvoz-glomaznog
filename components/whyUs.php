@@ -8,26 +8,26 @@
       </div>
 
       <div class="why_us_wrapper">
-        <div class="why_us_card">
-          <img src="images/icon1.png" alt="Fast Delivery">
-          <h5>Fast Delivery</h5>
-          <p>Quick and reliable shipping every time.</p>
-        </div>
-        <div class="why_us_card">
-          <img src="images/icon2.png" alt="Reliable Service">
-          <h5>Reliable Service</h5>
-          <p>Trusted performance, every shipment.</p>
-        </div>
-        <div class="why_us_card">
-          <img src="images/icon3.png" alt="Support 24/7">
-          <h5>24/7 Support</h5>
-          <p>Help is always available, anytime.</p>
-        </div>
-        <div class="why_us_card">
-          <img src="images/icon4.png" alt="Global Reach">
-          <h5>Global Reach</h5>
-          <p>Services extended across continents.</p>
-        </div>
+      <div class="why_us_card">
+  <img src="images/speed.png" alt="Brza Usluga">
+  <h5>Brza Usluga</h5>
+  <p>Odvoz otpada bez odgađanja, brzo i efikasno.</p>
+</div>
+<div class="why_us_card">
+  <img src="images/price.png" alt="Transparentne Cijene">
+  <h5>Transparentne Cijene</h5>
+  <p>Bez skrivenih troškova, uvijek znate što plaćate.</p>
+</div>
+<div class="why_us_card">
+  <img src="images/calendar.png" alt="Pažnja o Vama">
+  <h5>Pažnja o Vašem Vremenu</h5>
+  <p>Dolazimo prema dogovoru, bez gubitka vašeg dragocjenog vremena.</p>
+</div>
+<div class="why_us_card">
+  <img src="images/checkmark.png" alt="Pouzdana Usluga">
+  <h5>Pouzdana Usluga</h5>
+  <p>Sigurno zbrinjavanje svih vrsta otpada, bez stresa.</p>
+</div>
       </div>
     </div>
   </section>

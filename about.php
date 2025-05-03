@@ -20,7 +20,7 @@
 
     <!-- about section -->
 
-    <?php include 'components/about.php' ?>
+    <?php include 'components/aboutLong.php' ?>
 
     <!-- end about section -->
 
@@ -30,6 +30,10 @@
     <?php include 'components/footer.php'; ?>
 
     <!-- end info section -->
+
+    <?php include_once 'components/callBubble.php' ?>
+
   </body>
+
 
 </html>

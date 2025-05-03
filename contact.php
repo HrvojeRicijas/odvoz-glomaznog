@@ -19,7 +19,7 @@
 
     <!-- contact section -->
 
-    <?php include 'components/contact.php'; ?>
+    <?php include 'components/contactLong.php'; ?>
     <!-- end contact section -->
 
 
@@ -28,6 +28,9 @@
     <?php include 'components/footer.php'; ?>
 
     <!-- end info section -->
+
+    <?php include_once 'components/callBubble.php' ?>
+
 
   </body>
 

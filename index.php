@@ -18,7 +18,7 @@
       <!-- slider section -->
 
       <?php include 'components/slider.php'; ?>
-      
+
       <!-- end slider section -->
     </div>
 
@@ -63,6 +63,9 @@
     <?php include 'components/footer.php'; ?>
 
     <!-- end info section -->
+
+
+    <?php include_once 'components/callBubble.php' ?>
 
 
   </body>

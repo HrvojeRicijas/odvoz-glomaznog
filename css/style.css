@@ -861,16 +861,6 @@ a:focus {
   margin-bottom: 30px;
 }
 
-.info_section .info_contact .contact_link_box {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-}
-
 .info_section .info_contact .contact_link_box a {
   margin: 5px 0;
   color: #ffffff;
@@ -1026,6 +1016,9 @@ a:focus {
   width: 48px;
   height: 48px;
   margin-bottom: 15px;
+  background-color: #2bdcfc;
+  border-radius: 100%;
+  padding: 2px;
 }
 
 .why_us_card h5 {

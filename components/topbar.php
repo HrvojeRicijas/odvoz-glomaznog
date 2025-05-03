@@ -1,16 +1,16 @@
 <div class="header_top">
-    <div class="container-fluid" style = "width:90%">
+    <div class="container-fluid responsive_width">
         <div class="contact_nav">
-            <a href="">
+            <a href="tel:+385976447492">
                 <i class="fa fa-phone" aria-hidden="true"></i>
                 <span>
-                    Nazovite nas na: +01 123455678990
+                    Nazovite nas na: +385 97 644 7492
                 </span>
             </a>
-            <a href="">
+            <a href="mailto:saric.usluge@gmail.com">
                 <i class="fa fa-envelope" aria-hidden="true"></i>
                 <span>
-                    Pošaljite nam mail na: saric-usluge@gmail.com
+                    Pošaljite nam mail na: saric.usluge@gmail.com
                 </span>
             </a>
             <a href="">
