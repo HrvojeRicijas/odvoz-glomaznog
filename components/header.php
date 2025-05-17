@@ -1,9 +1,9 @@
 <div class="header_bottom">
-    <div class="container-fluid" style="width:80%">
+    <div class="container-fluid responsive_width">
         <nav class="navbar navbar-expand-lg custom_nav-container ">
-            <a class="navbar-brand" href="index.html">
-                <span>
-                (IKONA) - Šarić usluge
+            <a class="navbar-brand" href="index.php">
+                <span class="logo_span">
+                    <img class="logo_img" src="images/logo.png" alt="šarić usluge logo"> <div class="header_underneath"><h1 class="main_header">Šarić usluge</h1> <h3 class="sub_header">odvoz otpada i selidbe</h3></div>
                 </span>
             </a>
 
@@ -21,6 +21,9 @@
                     </li>
                     <li class="nav-item <?php if ($currPage=="about") echo 'active'; ?>">
                         <a class="nav-link" href="about.php">O nama</a>
+                    </li>
+                    <li class="nav-item <?php if ($currPage=="revierws") echo 'active'; ?>">
+                        <a class="nav-link" href="reviews.php">Recenzije</a>
                     </li>
                     <li class="nav-item <?php if ($currPage=="contact") echo 'active'; ?>">
                         <a class="nav-link" href="contact.php">Kontakt</a>

@@ -1,6 +1,6 @@
 <section class="track_section layout_padding">
     <div class="track_bg_box">
-      <img src="images/track-bg.jpg" alt="">
+      <img src="images/bgWhyUs.png" alt="zašto odabrati nas transport" style="height: 100%; object-fit: cover; object-position: center;">
     </div>
     <div class="container responsive-width">
       <div class="heading_container text-center mb-4">

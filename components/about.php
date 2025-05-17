@@ -27,7 +27,7 @@
         </div>
         <div class="col-md-6 ">
           <div class="img-box">
-            <img src="images/about-img.jpg" alt="">
+            <img src="images/choppin.jpg" alt="">
           </div>
         </div>
 

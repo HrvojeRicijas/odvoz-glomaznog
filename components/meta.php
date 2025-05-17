@@ -4,12 +4,12 @@
 <!-- Mobile Metas -->
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 <!-- Site Metas -->
-<meta name="keywords" content="" />
-<meta name="description" content="" />
-<meta name="author" content="" />
-<link rel="shortcut icon" href="images/fevicon.png" type="">
+<meta name="keywords" content="odvoz otpada, odvoz glomaznog otpada, raščišćavanje prostora, pražnjenje stanova, čišćenje prostora, selidbe, prijevoz namještaja, rušenje zidova, odvoz opasnog otpada, održavanje dvorišta, zeleni otpad, odvoz građevinskog otpada, odvoz bijele tehnike, profesionalne selidbe, čišćenje podruma, čišćenje tavana, usluge štemanja" />
+  <meta name="description" content="Naša tvrtka nudi profesionalne usluge odvoza otpada, raščišćavanja prostora, selidbi i rušenja. Brzo, kvalitetno i povoljno čistimo i praznimo stanove, kuće, urede i skladišta. Fleksibilni smo i prilagođavamo se vašem rasporedu uz konkurentne cijene." />
+  <meta name="author" content="Šarić usluge - usluge raščišćavanja, selidbe i odvoza otpada" />
+<link rel="shortcut icon" href="images/logo.png" type="">
 
-<title> Odvoz glomaznog otpada </title>
+<title> Šarić usluge - odvoz otpada i selidbe </title>
 
 
 <!-- bootstrap core css -->

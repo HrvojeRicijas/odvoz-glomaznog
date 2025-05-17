@@ -164,7 +164,9 @@ a:focus {
   font-weight: bold;
   font-size: 24px;
   color: #000000;
+  max-height: 36px;
 }
+
 
 .custom_nav-container {
   padding: 0;
@@ -648,7 +650,9 @@ a:focus {
 }
 
 .client_section .box .detail-box {
-  border: 1px solid #dddddd;
+
+  border: 1px solid #c3d6fa;
+  border-radius: 5px;
   padding: 25px;
   margin-bottom: 25px;
 }
@@ -1056,3 +1060,42 @@ a:focus {
     max-width: 80%;
   }
 }
+
+.main_header {
+  color: #0c4164;
+  font-size: x-large;
+  font-weight: 700;
+}
+
+.logo_span {
+  display: flex;
+  align-items: center;
+  gap: 10px; /* spacing between logo and text */
+}
+
+.logo_img {
+  height: 4rem; /* controls logo size within navbar */
+  width: auto;
+  max-height: 8rem; /* prevents it from ever being too tall */
+}
+
+.main_header {
+  font-size: 32px;
+  margin: 0;
+  margin-bottom: 2px;
+  font-weight: bold;
+}
+
+.sub_header {
+  margin: auto!important;
+  font-size: 16px;
+  margin: 0;
+  color: #0c4164;
+}
+
+.header_underneath {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.2;
+}
+

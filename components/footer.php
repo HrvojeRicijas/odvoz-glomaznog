@@ -6,7 +6,7 @@
                     <h4 style="color: white; text-align: center; margin-bottom: 20px;">
                         Kontakt
                     </h4>
-                    <div class="contact_link_box" style="display: flex; justify-content: center; gap: 20px; align-items: center; text-align: center;">
+                    <div class="contact_link_box row my-2" style="display: flex; justify-content: center; gap: 20px; align-items: center; text-align: center;">
                         <a href="" style="color: white; display: flex; align-items: center; text-decoration: none;">
                             <i class="fa fa-map-marker" aria-hidden="true" style="margin-right: 8px;"></i>
                             <span>Lokacija</span>

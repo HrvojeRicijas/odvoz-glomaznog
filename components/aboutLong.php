@@ -21,7 +21,7 @@
       <!-- Right section with image on the left -->
       <div class="col-md-6">
         <div class="img-box p-2 ml-2">
-          <img src="images/about-img.jpg" alt="">
+          <img src="images/workman.jpg" alt="">
         </div>
       </div>
     </div>
@@ -41,7 +41,7 @@
       <!-- Right section with image on the left -->
       <div class="col-md-6 order-md-1">
         <div class="img-box p-2 mr-4">
-          <img src="images/about-img.jpg" alt="">
+          <img src="images/choppin.jpg" alt="">
         </div>
       </div>
     </div>
